@@ -1,13 +1,5 @@
-<h3>👋 Salut, Je suis Mireille Chaperon, une developpeuse Web</h3>
-
 ![GitHub-Banner](https://user-images.githubusercontent.com/59967912/179404682-c6900601-f886-46c4-b231-7be7f1c3bb03.png)
- 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-WebDevMoco/WebDevMoco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <h3 align="center" color="#5f9ea0">Je suis Mireille Chaperon, une developpeuse Web</h3>
+ <p color="#5f9ea0">👀 Je suis interessés par l'éco-conception de site web</>
+ <p color="#5f9ea0">🌱 J'apprends actuellement WebAssembly et Tensorflow.js</p>
+ <p>📫 <a href="mailto:mireillechaperon@gmail.com?subject=Contact GitHub">Cliquez ici pour nous envoyer un e-mail !</a></p>
